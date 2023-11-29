@@ -55,3 +55,10 @@ Upon request by some stakeholder, for sensitivity purposes we also illustrate th
 Please note that for the calculation of offshore wind potentials, the same principles apply concerning nature protection. There are no land cover restrictions considered but shipping routes in the Black Sea are excluded instead. Starting with raster data from global shipping traffic densities ([https://datacatalog.worldbank.org/search/dataset/0037580](https://datacatalog.worldbank.org/search/dataset/0037580) ), the mostly used shipping routes are manually drawn as lines with 10 km width and then excluded.
 
 - **Classification by area:** For the further processing in database format, the values of the usable (i.e., not excluded) pixels are aggregated by administrative boundaries. For onshore wind this implied a breakdown by NUTS region and a distinction between wind power site qualities (i.e., 12 categories of different wind site qualities, represented by ranges of full load hours, predefined for the whole study region) and by land use type (i.e., into 14 land use categories according to the level two classification of the CORINE land use database). For offshore wind the breakdown into 12 categories respects differences in water depth and distance to the shore.
+
+## Literature
+
+- Bollmeyer C., J. D. Keller, C. Ohlwein, S. Wahl, S. Crewell, P. Friederichs, A. Hense, J. Keune, S. Kneifel, I. Pscheidt, S. Redl, S. Steinke, 2014: Towards a high-resolution regional reanalysis for the European CORDEX domain. Article published in: Quarterly Journal of the Royal Meteorolog-ical Society, first published: 28 October 2014. Accessible at https://doi.org/10.1002/qj.2486.
+- Rouault E., 2022: GDAL description and library. Remark: GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats. Accessible at https://github.com/rouault/gdal. 
+- Schulzweida U., 2019: CDO (Climate Data Observer) user guide. Software description, version 1.9.8, published October 31, 2019. Accessible at https://zenodo.org/records/3539275.
+
