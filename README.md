@@ -73,5 +73,5 @@ The entire repository is under the GNU public license 3.0
 
 ## Contact
 
-gustav.resch and lukas.liebmann both ait.ac.at
+´gustav.resch´ and ´lukas.liebmann´ both ´ait.ac.at´
 
