@@ -63,3 +63,15 @@ Please note that for the calculation of offshore wind potentials, the same princ
 - Rouault E., 2022: GDAL description and library. Remark: GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats. Accessible at https://github.com/rouault/gdal. 
 - Schulzweida U., 2019: CDO (Climate Data Observer) user guide. Software description, version 1.9.8, published October 31, 2019. Accessible at https://zenodo.org/records/3539275.
 
+## Funding
+
+This study on the wind power potential in Bulgaria, Hungary, and Romania has been conducted, on behalf of the European Climate Foundation (ECF), by AIT Austrian Institute of Technology GmbH, Center for Energy, Competence Unit Integrated Energy Systems (IES) in close collaboration with REKK – Regional Centre for Energy Policy Analysis as well as with local partners from the study region, including EFdeN – Sustainable and Green Homes from Romania and the Center for the Study of Democracy (CSD) from Bulgaria. The study team gratefully acknowledges the support provided by ECF.
+
+## License
+
+The entire repository is under the GNU public license 3.0
+
+## Contact
+
+gustav.resch and lukas.liebmann both ait.ac.at
+
