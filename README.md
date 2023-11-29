@@ -1,13 +1,11 @@
 # wind.power.potential-BG-HU-RO
-Results of the study on the wind power potential in Bulgaria, Hungary and Romania (funded by European Climate Foundation, ECF)
+Results of the GIS-based analysis of the wind power potential in Bulgaria, Hungary and Romania (funded by European Climate Foundation, ECF)
 
-## 1 GIS-based analysis of the wind power potential
-
-### 1.1 Brief overview on the approach taken
+## Brief overview on the approach taken
 
 As central element of this study, a thorough technical analysis of the future potential for wind power at the countryside (onshore) as well as, where available, in marine areas (offshore) is undertaken for the whole study region.
 
-![](RackMultipart20231129-1-abx7z7_html_2abcdd1c4f08e726.gif)
+![](Figure 1.png)
 
 Figure 1: Overview on the approach taken for the assessment of wind potentials in the study region
  (exemplified for onshore wind)
