@@ -59,6 +59,7 @@ Please note that for the calculation of offshore wind potentials, the same princ
 ## Literature
 
 - Bollmeyer C., J. D. Keller, C. Ohlwein, S. Wahl, S. Crewell, P. Friederichs, A. Hense, J. Keune, S. Kneifel, I. Pscheidt, S. Redl, S. Steinke, 2014: Towards a high-resolution regional reanalysis for the European CORDEX domain. Article published in: Quarterly Journal of the Royal Meteorolog-ical Society, first published: 28 October 2014. Accessible at https://doi.org/10.1002/qj.2486.
+- IUCN and UNEP-WCMC, 2020: The World Database on Protected Areas (WDPA) [https://www.protectedplanet.net/en/search-areas?filters%5Bdb_type%5D%5B%5D=wdpa&geo_type=region], [08/2020], Cambridge, UK: UNEP-WCMC. Accessible at: www.protectedplanet.net. 
 - Rouault E., 2022: GDAL description and library. Remark: GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats. Accessible at https://github.com/rouault/gdal. 
 - Schulzweida U., 2019: CDO (Climate Data Observer) user guide. Software description, version 1.9.8, published October 31, 2019. Accessible at https://zenodo.org/records/3539275.
 
