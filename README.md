@@ -5,7 +5,7 @@ Results of the GIS-based analysis of the wind power potential in Bulgaria, Hunga
 
 As central element of this study, a thorough technical analysis of the future potential for wind power at the countryside (onshore) as well as, where available, in marine areas (offshore) is undertaken for the whole study region.
 
-![](Figure 1.png)
+![Figure 1](https://github.com/ait-energy/wind.power.potential-BG-HU-RO/assets/74415146/5d151710-8f24-47a9-8d86-85572a6f251c)
 
 Figure 1: Overview on the approach taken for the assessment of wind potentials in the study region
  (exemplified for onshore wind)
