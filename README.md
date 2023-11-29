@@ -5,7 +5,7 @@ Results of the GIS-based analysis of the wind power potential in Bulgaria, Hunga
 
 As central element of this study, a thorough technical analysis of the future potential for wind power at the countryside (onshore) as well as, where available, in marine areas (offshore) is undertaken for the whole study region.
 
-![Figure 1](https://github.com/ait-energy/wind.power.potential-BG-HU-RO/assets/74415146/5d151710-8f24-47a9-8d86-85572a6f251c)
+![Figure](https://github.com/ait-energy/wind.power.potential-BG-HU-RO/assets/74415146/0207b0fd-cde2-4773-b83f-603abddc2928)
 
 Figure 1: Overview on the approach taken for the assessment of wind potentials in the study region
  (exemplified for onshore wind)
@@ -30,11 +30,11 @@ Table 1: Average suitability factors applied for the identification of wind powe
 
 The outcome of this assessment are detailed maps showing available areas for wind power development as well as corresponding site qualities (in terms of capacity factors / full load hours) in dependence of sensitivity parameter, and a comprehensive dataset that lists the identified wind power potential at regional level within a country (i.e., by NUTS-3 region), incl. information on wind site qualities. Complementary to the country reports prepared, a more comprehensive background report will inform interested actors on further technical details concerning methodology and results, cf. Resch et al. (2023).
 
-### 1.1.2Background information and technical details
+## Background information and technical details
 
 For the interested reader we subsequently provide further details on the approach taken for estimating and reporting on wind potentials.
 
-Software tools: For the GIS analysis a set of software tools are used, including CDO (Climate Data Observer, cf. Schulzweida et al. (2019)), Python and GDAL (Geospatial Data Abstraction Library, cf. Rouault E., 2022). Source code and input data are available at [https://github.com/ait-energy/wind.power.potential-BG-HU-RO](https://github.com/ait-energy/wind.power.potential-BG-HU-RO) so that derived results are reproduceable or can be adapted in the case of alternative input data etc. Complementary to the above, QGIS, an open-source software tool, is used for map generation.
+Software tools: For the GIS analysis a set of software tools are used, including CDO (Climate Data Observer, cf. Schulzweida et al. (2019)), Python and GDAL (Geospatial Data Abstraction Library, cf. Rouault E., 2022). Complementary to the above, QGIS, an open-source software tool, is used for map generation.
 
 Details on approach and assumptions:
 
